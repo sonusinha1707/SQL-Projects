@@ -13,11 +13,12 @@ I hope these projects inspire and provide valuable resources for anyone interest
 
 Feel free to explore the repository and leave your feedback!
 
-🗒️ **Table of Contents**  
-- Installation  
-- Usage  
-- Contributing  
-- About Me  
+## 🗒️Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [About Me](#about-me)
 
 ⬇️ **Installation**  
 To explore the projects and run the SQL queries locally, follow these steps:

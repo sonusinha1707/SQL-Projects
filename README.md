@@ -2,7 +2,7 @@
 
 ---
 
-#🔥🚀 SQL Data Analysis Projects! 🔬🎯  
+# 🔥🚀 SQL Data Analysis Projects! 🔬🎯  
 Welcome to the SQL Data Analysis Projects repository!
 
 This repository contains a collection of SQL projects focused on data analysis, querying, and reporting from a variety of databases. These projects aim to uncover insights, trends, and metrics from data, showcasing the power of SQL in data analysis.

@@ -1,4 +1,4 @@
-SCHEMAS of Netflix Table
+--SCHEMAS of Netflix Table
 
 DROP TABLE IF EXISTS netflix;
 CREATE TABLE netflix

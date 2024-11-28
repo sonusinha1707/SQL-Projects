@@ -18,9 +18,9 @@ The data for this project is sourced from the Kaggle dataset:
 
 - **Dataset Link:** [Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
 
-## Power-BI Netflix Data Analysis Dashboard
+## Power BI Dashboard
 
-https://app.powerbi.com/view?r=eyJrIjoiZDM0ZDliZDUtZDU4OC00MGY3LWI4ZDYtODZkYzkwOTc2ZjE0IiwidCI6ImIxNTZhNTQxLWUyMzYtNGVkYi05MWJmLWZjYTI1YzcwMDRmOSJ9
+![](https://github.com/sonusinha1707/SQL-Projects/blob/main/Netflix_Data_Analysis_Using_SQL/Netflix%20Power%20BI%20Dashboard.png)
 
 ## Schema
 

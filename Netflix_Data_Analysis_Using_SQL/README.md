@@ -18,6 +18,10 @@ The data for this project is sourced from the Kaggle dataset:
 
 - **Dataset Link:** [Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
 
+## Power-BI Netflix Data Analysis Dashboard
+
+https://app.powerbi.com/view?r=eyJrIjoiZDM0ZDliZDUtZDU4OC00MGY3LWI4ZDYtODZkYzkwOTc2ZjE0IiwidCI6ImIxNTZhNTQxLWUyMzYtNGVkYi05MWJmLWZjYTI1YzcwMDRmOSJ9
+
 ## Schema
 
 ```sql
